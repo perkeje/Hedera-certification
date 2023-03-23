@@ -1,6 +1,6 @@
 # Setup task
 
-Output:\n
+Output:
 
 ```
 ACCOUNT_ID_1 = 0.0.3904742
